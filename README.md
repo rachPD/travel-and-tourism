@@ -1,2 +1,2 @@
 # travel-and-tourism-website
-simple website for project and tutorial 
+simple website exhibiting popular tourist spots in West Bengal for project and tutorial 
