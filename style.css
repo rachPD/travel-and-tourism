@@ -343,7 +343,7 @@ ul.submenu li a.active {
 /* background images for banner */
 .banner-w3ls-1 {
     padding: 80px;
-    background: url(../images/1.jpg) no-repeat top;
+    background: url(../1.jpg) no-repeat top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
